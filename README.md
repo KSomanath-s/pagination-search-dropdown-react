@@ -115,7 +115,7 @@ The pagination automatically changes from **5 pages to 2 pages**.
 Clone the repository:
 
 ```bash
-git clone <https://github.com/KSomanath-s/pagination-search-dropdown-react>
+git clone https://github.com/KSomanath-s/pagination-search-dropdown-react
 ```
 
 Navigate to the project:
